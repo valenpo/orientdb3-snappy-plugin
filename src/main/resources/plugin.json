@@ -1,0 +1,8 @@
+{
+  "name" : "snappy-plugin",
+  "version" : "1.0.0",
+  "javaClass": "ru.mailarchiva.orientdb.snappy.OSnappyPlugin",
+  "parameters" : {},
+  "description" : "The Snappy Compression Plugin for OrientDatabase 3.x",
+  "copyrights" : "Valentin Popov popov@mailarchiva.ru"
+}
